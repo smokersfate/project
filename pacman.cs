@@ -1,4 +1,4 @@
-/*
+
 using System;
 using System.ComponentModel.DataAnnotations;
 using System.Data;
@@ -186,4 +186,3 @@ class Program56
         return direction;
     }   
 }
-*/
